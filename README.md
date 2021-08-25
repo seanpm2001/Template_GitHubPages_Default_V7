@@ -67,41 +67,43 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 [06.0 - Credits](#Credits)
 
-[07.0 - Installation](#Installation)
+[07.0 - Authors](#Authors)
 
-[08.0 - 404 page](#404-page)
+[08.0 - Installation](#Installation)
 
-[09.0 - Version history](#Version-history)
+[09.0 - 404 page](#404-page)
 
-[10.0 - Software status](#Software-status)
+[10.0 - Version history](#Version-history)
 
-[11.0 - Sponsor info](#Sponsor-info)
+[11.0 - Software status](#Software-status)
 
-[12.0 - Contributers](#Contributers)
+[12.0 - Sponsor info](#Sponsor-info)
 
-[13.0 - Issues](#Issues)
+[13.0 - Contributers](#Contributers)
 
-> [13.1 - Current issues](#Current-issues)
+[14.0 - Issues](#Issues)
 
-> [13.2 - Past issues](#Past-issues)
+> [14.1 - Current issues](#Current-issues)
 
-> [13.3 - Past pull requests](#Past-pull-requests)
+> [14.2 - Past issues](#Past-issues)
 
-> [13.4 - Active pull requests](#Active-pull-requests)
+> [14.3 - Past pull requests](#Past-pull-requests)
 
-[14.0 - Resources](#Resources)
+> [14.4 - Active pull requests](#Active-pull-requests)
 
-[15.0 - Contributing](#Contributing)
+[15.0 - Resources](#Resources)
 
-[16.0 - About README](#About-README)
+[16.0 - Contributing](#Contributing)
 
-[17.0 - README Version history](#README-version-history)
+[17.0 - About README](#About-README)
 
-[18.0 - Technical notes](#Technical-notes)
+[18.0 - README Version history](#README-version-history)
 
-[19.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[19.0 - Technical notes](#Technical-notes)
 
-> [19.9 - End of file](#EOF)
+[20.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+
+> [20.9 - End of file](#EOF)
 
 ***
 
@@ -140,7 +142,7 @@ No Modern history to show for this project.
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki/)
+[Click/tap here to view this projects Wiki](https://github.com/<organizationName>/<repoName>/wiki/)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -157,6 +159,12 @@ Please note that you also have to follow the rules of the GNU General Public Lic
 ## Credits
 
 View the credits file for this project and see the people who got together to make this project by [clicking/tapping here](/CREDITS)
+
+***
+
+## Authors
+
+View the authors file for this project and see the authors of this project by [clicking/tapping here](/AUTHORS)
 
 ***
 
@@ -318,9 +326,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `013 (Saturday, 2021 August 21st at 5:02 pm)`
+File version: `0.14 (Tuesday, 2021 August 24th at 9:31 pm)`
 
-Line count: `0,486`
+Line count: `0,512`
 
 ***
 
@@ -450,6 +458,24 @@ Version 0.13 (2021, Saturday August 21st 2021 at 5:02 pm)
 
 > * No other changes in version 6 (0.13)
 
+Version 0.14 (2021, Tuesday August 24th 2021 at 9:31 pm)
+
+> Changes:
+  
+> * Times are now compliant with ISO:8601 and use YYYY-MM-DD rather than MM-DD-YYYY
+
+> * Updated the index
+
+> * Added the authors section
+
+> * Updated the footer, adding support for the Swisscows search engine as a 4th option
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 6 (0.13)
+
 Version 1 (Coming soon)
 
 > Changes:
@@ -478,7 +504,7 @@ Version 2 (Coming soon)
 
 ## You have reached the end of the README file
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) )
+( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ### EOF
 
